@@ -16,7 +16,7 @@ on:
 env:
   SOURCE_URL: https://github.com/coolsnowwolf/lede
   SOURCE_BRANCH: master
-  CONFIG_FILE: configs/x86_64-ray.config
+  CONFIG_FILE: configs/x86_64.config
   EXTRA_CONFIG: configs/extra-ray.config
   DIY_SCRIPT: diy-script.sh
   TOOLCHAIN_TAG: Toolchain
